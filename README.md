@@ -1,3 +1,3 @@
-# Curved header using CSS only
+# Curved header
 
-<a href="https://viktoriya-druzhkova.github.io/Curved_header_using_CSS_only/">Watch here - curved header using CSS only</a>
+<a href="https://druzhkova.github.io/Curved-header/">Watch here</a>
